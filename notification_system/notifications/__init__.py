@@ -1,0 +1,1 @@
+# Torna 'notifications' um pacote
